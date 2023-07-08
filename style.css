@@ -22,6 +22,7 @@
     padding-right:7px;
     font-size: 18px;
     text-transform:capitalize;
+    cursor: pointer;
 }
 .item:hover{
     color: brown;
